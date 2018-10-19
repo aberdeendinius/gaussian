@@ -1,8 +1,8 @@
-#m062x/6-311+g(2df,2p) freq Opt=(TS, ModRedun, calcfc, noigentest)
+#m062x/6-311+g(2df,2p) freq Opt=(TS, ModRedun, noigentest)
 
  Title
 
-0 2
+0 1
 O          1.81826       12.68734       -0.31655
 O          1.60133       11.39490       -0.18458
 H          2.47496       12.77554       -1.18623
