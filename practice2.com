@@ -1,4 +1,4 @@
-#m062x/6-311+g(2df,2p) freq Opt=(TS, ModRedun)
+#n 062x/6-311+g(2df,2p) freq Opt=(TS, ModRedun)
 
  Title
 
