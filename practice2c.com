@@ -1,4 +1,4 @@
-#M06-2x/6-311+g(2df,2p) Opt=(TS,EstmFC,noeigentest,ModRedundant) Test
+#M062x/6-311+g(2df,2p) Opt=(TS,noeigentest,ModRedundant) Test
 
  Title
 
