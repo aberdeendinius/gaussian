@@ -1,4 +1,4 @@
-#n B3LYP/6-31G(d) freq Opt=(TS, ModRedun)
+#N B3LYP/6-31G(d) Opt=(TS,EstmFC,noeigentest,ModRedundant) Test
 
  Title
 
