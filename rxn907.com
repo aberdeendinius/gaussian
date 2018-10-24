@@ -1,7 +1,8 @@
 #m062x/6-311+g(2df,2p) Opt=(TS,EstmFC,noeigentest,ModRedundant,maxcycles=200) Test
+
  Title
 
-0 1
+0 2
 C         -9.71050        1.32720        3.32414
 C         -9.92710        0.10725        2.69083
 C         -8.41794        1.84576        3.41491
