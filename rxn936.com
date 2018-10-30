@@ -1,8 +1,8 @@
-#m062x/6-311+g(2df,2p) Opt=(ModRedun,Loose,maxcycle=1000) (integral=NoXCTest) Int(Grid=SG1) freq
+#m062x/6-311+g(2df,2p) Opt=(ModRedun,Loose,maxcycle=1000) Integral=NoXCTest Int(Grid=SG1) freq
 
  Title
 
-0 2
+0 1
 C          7.63378       -2.11545        0.53641
 C          6.15989       -1.76281        0.41278
 H          7.80630       -2.71318        1.43439
