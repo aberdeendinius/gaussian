@@ -19,7 +19,7 @@
 ##SBATCH --mem=110GB
 
 #partition to use.
-#SBATCH --partition=general
+#SBATCH --partition=west
 
 #an array for the job.
 #SBATCH --array=1
