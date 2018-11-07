@@ -2,8 +2,8 @@
  Input=rxn935.com
  Output=rxn935.log
  Initial command:
- /shared/centos7/gaussian/g16/l1.exe "/scratch/dinius.ab/QMscratch/Gau-11854.inp" -scrdir="/scratch/dinius.ab/QMscratch/"
- Entering Link 1 = /shared/centos7/gaussian/g16/l1.exe PID=     11855.
+ /shared/centos7/gaussian/g16/l1.exe "/scratch/dinius.ab/QMscratch/Gau-48315.inp" -scrdir="/scratch/dinius.ab/QMscratch/"
+ Entering Link 1 = /shared/centos7/gaussian/g16/l1.exe PID=     48316.
   
  Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2016,
             Gaussian, Inc.  All Rights Reserved.
@@ -77,7 +77,7 @@
  
  ******************************************
  Gaussian 16:  EM64L-G16RevA.03 25-Dec-2016
-                 2-Nov-2018 
+                 6-Nov-2018 
  ******************************************
  ----------------------------------------------------------------------
  #m062x/6-311+g(2df,2p) Opt=(ModRedun,Loose,maxcycle=1000) Int(Grid=SG1
@@ -1602,7 +1602,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.31D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.93D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=    -0.000000   -0.000000    0.000000
          Rot=    0.999920   -0.009058    0.000949    0.008800 Ang=  -1.45 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -2106,7 +2106,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.27D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.97D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=     0.000000   -0.000000   -0.000000
          Rot=    0.999612   -0.017877    0.001553   -0.021294 Ang=  -3.19 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -2679,7 +2679,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.28D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.80D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=    -0.000000    0.000000   -0.000000
          Rot=    0.973966   -0.021130   -0.004632   -0.225661 Ang= -26.21 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -3204,7 +3204,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.29D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.67D-07 NBFU=   755
- Lowest energy guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Lowest energy guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=     0.000000    0.000000   -0.000000
          Rot=    0.996942    0.001693   -0.002103   -0.078102 Ang=   8.96 deg.
  B after Tr=     0.000000   -0.000000   -0.000000
@@ -3723,7 +3723,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.28D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  6.81D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=     0.000000   -0.000000   -0.000000
          Rot=    0.996169    0.019945   -0.002515   -0.085107 Ang=  10.03 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -4248,7 +4248,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.23D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.35D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=    -0.000000   -0.000000    0.000000
          Rot=    0.997248    0.038647   -0.004158   -0.063133 Ang=   8.50 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -4774,7 +4774,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.24D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.83D-07 NBFU=   755
- Lowest energy guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Lowest energy guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=    -0.000000    0.000000    0.000000
          Rot=    0.988052    0.039607   -0.015328   -0.148156 Ang=  17.73 deg.
  B after Tr=     0.000000    0.000000    0.000000
@@ -5291,7 +5291,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.25D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  8.21D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=    -0.000000   -0.000000    0.000000
          Rot=    0.999711   -0.023690   -0.000124    0.004202 Ang=  -2.76 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -6253,7 +6253,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.23D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.99D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=     0.000000    0.000000   -0.000000
          Rot=    0.999972    0.007118   -0.000123   -0.002466 Ang=   0.86 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -7206,7 +7206,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.23D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.96D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=    -0.000000    0.000000    0.000000
          Rot=    1.000000    0.000413   -0.000052   -0.000259 Ang=   0.06 deg.
  ExpMin= 4.38D-02 ExpMax= 8.59D+03 ExpMxC= 1.30D+03 IAcc=2 IRadAn=         4 AccDes= 0.00D+00
@@ -7743,7 +7743,7 @@
  One-electron integrals computed using PRISM.
  NBasis=   756 RedAO= T EigKep=  1.23D-06  NBF=   756
  NBsUse=   755 1.00D-06 EigRej=  7.96D-07 NBFU=   755
- Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-11855.chk"
+ Initial guess from the checkpoint file:  "/scratch/dinius.ab/QMscratch/Gau-48316.chk"
  B after Tr=    -0.000000   -0.000000   -0.000000
          Rot=    1.000000   -0.000001   -0.000001   -0.000002 Ang=  -0.00 deg.
  Requested convergence on RMS density matrix=1.00D-08 within 128 cycles.
@@ -7812,7 +7812,7 @@
  Iteration  1 RMS(Cart)=  0.00021184 RMS(Int)=  0.06364563
  Iteration  2 RMS(Cart)=  0.00014951 RMS(Int)=  0.05278775
  Linear angle in Tors.
- Error termination via Lnk1e in /shared/centos7/gaussian/g16/l103.exe at Sat Nov  3 08:35:20 2018.
- Job cpu time:       0 days 23 hours  1 minutes 49.4 seconds.
- Elapsed time:       0 days 23 hours  2 minutes  6.0 seconds.
+ Error termination via Lnk1e in /shared/centos7/gaussian/g16/l103.exe at Wed Nov  7 11:44:56 2018.
+ Job cpu time:       0 days 22 hours 47 minutes 36.5 seconds.
+ Elapsed time:       0 days 22 hours 47 minutes 59.0 seconds.
  File lengths (MBytes):  RWF=    576 Int=      0 D2E=      0 Chk=     64 Scr=     32
