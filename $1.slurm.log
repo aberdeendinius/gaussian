@@ -1,25 +1,17 @@
 Error: segmentation violation
    rax 0000000000000000, rbx ffffffffffffffff, rcx ffffffffffffffff
-   rdx 000000000000bcbc, rsp 00007ffd05134fb8, rbp 00007ffd05135530
-   rsi 000000000000000b, rdi 000000000000bcbc, r8  0000000000000020
-   r9  00007ffd051346d0, r10 00007ffd05134a20, r11 0000000000000206
-   r12 00007ffd05135578, r13 0000000000000000, r14 0000000000000000
+   rdx 00000000000049e6, rsp 00007ffc661f75c8, rbp 00007ffc661f7b40
+   rsi 000000000000000b, rdi 00000000000049e6, r8  0000000000000020
+   r9  00007ffc661f6ce0, r10 00007ffc661f7020, r11 0000000000000202
+   r12 00007ffc661f7b88, r13 0000000000000000, r14 0000000000000000
    r15 00000000000003e6
-  /lib64/libpthread.so.0(+0xf6d0) [0x2ac0926326d0]
-  /lib64/libc.so.6(kill+0x7) [0x2ac092b77547]
-  /shared/centos7/gaussian/g16/l103.exe() [0x45a050]
-  /shared/centos7/gaussian/g16/l103.exe() [0x471611]
-  /shared/centos7/gaussian/g16/l103.exe() [0x49fe91]
-  /shared/centos7/gaussian/g16/l103.exe() [0x48fd69]
-  /shared/centos7/gaussian/g16/l103.exe() [0x5256b7]
-  /shared/centos7/gaussian/g16/l103.exe() [0x49e4b3]
-  /shared/centos7/gaussian/g16/l103.exe() [0x48ced1]
-  /shared/centos7/gaussian/g16/l103.exe() [0x5ce26e]
-  /shared/centos7/gaussian/g16/l103.exe() [0x5054e7]
-  /shared/centos7/gaussian/g16/l103.exe() [0x503bd5]
-  /shared/centos7/gaussian/g16/l103.exe() [0x433f97]
-  /shared/centos7/gaussian/g16/l103.exe() [0x40e023]
-  /shared/centos7/gaussian/g16/l103.exe() [0x403a47]
-  /shared/centos7/gaussian/g16/l103.exe() [0x40397d]
-  /lib64/libc.so.6(__libc_start_main+0xf5) [0x2ac092b63445]
-  /shared/centos7/gaussian/g16/l103.exe(sched_setaffinity+0xa1) [0x4038a9]
+  /lib64/libpthread.so.0(+0xf6d0) [0x2b74ad6dd6d0]
+  /lib64/libc.so.6(kill+0x7) [0x2b74adc22547]
+  /shared/centos7/gaussian/g16/l301.exe() [0x627960]
+  /shared/centos7/gaussian/g16/l301.exe() [0x6464a1]
+  /shared/centos7/gaussian/g16/l301.exe() [0x6bfbf1]
+  /shared/centos7/gaussian/g16/l301.exe() [0x407557]
+  /shared/centos7/gaussian/g16/l301.exe() [0x403a40]
+  /shared/centos7/gaussian/g16/l301.exe() [0x40397d]
+  /lib64/libc.so.6(__libc_start_main+0xf5) [0x2b74adc0e445]
+  /shared/centos7/gaussian/g16/l301.exe(sched_setaffinity+0xa1) [0x4038a9]
