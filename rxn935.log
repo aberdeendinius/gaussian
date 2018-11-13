@@ -2,8 +2,8 @@
  Input=rxn935.com
  Output=rxn935.log
  Initial command:
- /shared/centos7/gaussian/g16/l1.exe "/scratch/dinius.ab/QMscratch/Gau-18917.inp" -scrdir="/scratch/dinius.ab/QMscratch/"
- Entering Link 1 = /shared/centos7/gaussian/g16/l1.exe PID=     18918.
+ /shared/centos7/gaussian/g16/l1.exe "/scratch/dinius.ab/QMscratch/Gau-36778.inp" -scrdir="/scratch/dinius.ab/QMscratch/"
+ Entering Link 1 = /shared/centos7/gaussian/g16/l1.exe PID=     36779.
   
  Copyright (c) 1988,1990,1992,1993,1995,1998,2003,2009,2016,
             Gaussian, Inc.  All Rights Reserved.
@@ -502,7 +502,7 @@
  Rotational constants (GHZ):           1.2792431           0.2458456           0.2388744
  Standard basis: 6-311+G(2df,2p) (5D, 7F)
  The combination of multiplicity 2 and   114 electrons is impossible.
- Error termination via Lnk1e in /shared/centos7/gaussian/g16/l301.exe at Fri Nov  9 10:39:19 2018.
+ Error termination via Lnk1e in /shared/centos7/gaussian/g16/l301.exe at Fri Nov  9 10:50:08 2018.
  Job cpu time:       0 days  0 hours  0 minutes  0.6 seconds.
  Elapsed time:       0 days  0 hours  0 minutes  2.3 seconds.
  File lengths (MBytes):  RWF=    272 Int=      0 D2E=      0 Chk=     32 Scr=     32
