@@ -11,4 +11,5 @@ sbatch --chdir=$jobname \
  --error=$jobname.error.log \
  --output=$jobname.log \
  --export=ALL,gaussianfile=$jobname.com \
- slurm_rxn.sh  
+ slurm_rxn.sh ;
+echo "Submitted "$jobname

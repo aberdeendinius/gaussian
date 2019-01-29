@@ -12,7 +12,7 @@
 
 ##SBATCH --ntasks-per-node=1
 ##SBATCH --exclusive
-##SBATCH --mem=110GB
+#SBATCH --mem=63GB
 
 ## partition to use.
 #SBATCH --partition=west
@@ -21,4 +21,7 @@
 ##SBATCH --array=1
 
 #####################################################
-g16 $gaussianfile 
+# See https://gaussian.com/running/?tabid=6
+# -p = Number of processors/cores for multiprocessor parallel jobs. 
+# -m = Sets the amount of dynamic memory used
+g16 -p=20 -m=60GB $gaussianfile 
