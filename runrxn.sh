@@ -4,10 +4,12 @@
 ## and submits the slurm_rxn to SLURM
 
 export jobname="rxn"$1
+export gaussianfile=$jobname.com
 #####################################################
 sbatch --chdir=$jobname \
  --job-name=$jobname \
  --error=$jobname.error.log \
  --output=$jobname.log \
- --export=ALL,gaussianfile=$jobname.com
- slurm_rxn.sh  
+ --export=ALL,gaussianfile=$jobname.com \
+ slurm_rxn.sh ;
+echo "Submitted "$jobname
