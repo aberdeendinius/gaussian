@@ -1,6 +1,6 @@
-#m062x/6-311+g(2df,2p) Opt=(ModRedun,Loose,maxcycle=1000,TS,rcfc) Int(Grid=SG1) freq
+#m062x/6-311+g(2df,2p) Opt=(Loose,maxcycle=1000,TS) Int(Grid=SG1) freq
 
-Title
+ Title
 
 0 2
 C          1.26636        0.42428        0.70388
