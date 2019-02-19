@@ -1,4 +1,4 @@
-#m062x/6-311+g(2df,2p) Opt=(Loose,maxcycle=1000,TS) Int(Grid=SG1) freq
+# m062x/6-31+g(d,p) Opt=(TS,Loose,maxcycle=1000,CalcFC) Int(Grid=SG1) freq
 
  Title
 
