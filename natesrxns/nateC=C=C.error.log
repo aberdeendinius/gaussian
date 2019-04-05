@@ -1,0 +1,17 @@
+Error: segmentation violation
+   rax 0000000000000000, rbx ffffffffffffffff, rcx ffffffffffffffff
+   rdx 00000000000354ac, rsp 00007ffd4bb618e8, rbp 00007ffd4bb61e60
+   rsi 000000000000000b, rdi 00000000000354ac, r8  0000000000000020
+   r9  00007ffd4bb61000, r10 00007ffd4bb60ce0, r11 0000000000000206
+   r12 00007ffd4bb61ea8, r13 0000000000000000, r14 0000000000000000
+   r15 00000000000003e6
+  /lib64/libpthread.so.0(+0xf6d0) [0x2aeca6ed06d0]
+  /lib64/libc.so.6(kill+0x7) [0x2aeca7415547]
+  /shared/centos7/gaussian/g16/l301.exe() [0x627960]
+  /shared/centos7/gaussian/g16/l301.exe() [0x6464a1]
+  /shared/centos7/gaussian/g16/l301.exe() [0x6bfbf1]
+  /shared/centos7/gaussian/g16/l301.exe() [0x407557]
+  /shared/centos7/gaussian/g16/l301.exe() [0x403a40]
+  /shared/centos7/gaussian/g16/l301.exe() [0x40397d]
+  /lib64/libc.so.6(__libc_start_main+0xf5) [0x2aeca7401445]
+  /shared/centos7/gaussian/g16/l301.exe(sched_setaffinity+0xa1) [0x4038a9]
